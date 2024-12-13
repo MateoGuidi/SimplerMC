@@ -1,0 +1,39 @@
+name: SimplerMC
+version: 1.0
+main: mateoguidi.simplermc.SimplerMC
+api-version: 1.8
+authors: [ mateoguidi ]
+description: Minecraft but its SIMPLER
+commands:
+  smc:
+    aliases: [simplermc, smctest, smtest]
+    description: does SimplerMC works?
+    usage: /smc
+  ping:
+    aliases: [ms]
+    description: know your ping number.
+    usage: /ping
+  coords:
+    aliases: [tl, coord]
+    description: share your coords in the chat.
+    usage: /tl
+  msg:
+    aliases: [tell, whisper, message]
+    description: message someone.
+    usage: /msg
+  broadcast:
+    aliases: [bc, say]
+    description: make an announce.
+    usage: /broadcast
+  list:
+    aliases: [liste, players]
+    description: list all players connected.
+    usage: /list
+  vote:
+    aliases: [sondage, ask]
+    description: make a vote to a question.
+    usage: /vote
+  inspect:
+    aliases: [showtool, show]
+    description: show item in your hand.
+    usage: /inspect
