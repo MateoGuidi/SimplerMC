@@ -36,7 +36,7 @@ public class messageCommand implements CommandExecutor {
         String messageFinal = message.toString().trim();
 
         //Send the messages to both players and makes a notification sound to target player
-        commandSender.sendMessage(utils.prefix + ChatColor.BLUE + cible.getName() + ChatColor.DARK_GRAY + " » " + ChatColor.AQUA + "@" + commandSender.getName() + ChatColor.GRAY + " : " + ChatColor.WHITE + messageFinal);
+        commandSender.sendMessage(utils.prefix + ChatColor.BLUE + commandSender.getName() + ChatColor.DARK_GRAY + " » "  + ChatColor.AQUA + "@" + cible.getName() + ChatColor.GRAY + " : " + ChatColor.WHITE + messageFinal);
         cible.sendMessage(utils.prefix + ChatColor.AQUA + "@" + commandSender.getName() + ChatColor.DARK_GRAY + " » " + ChatColor.BLUE + cible.getName() + ChatColor.GRAY + " : " + ChatColor.WHITE + messageFinal);
         cible.playSound(cible.getLocation(), Sound.SUCCESSFUL_HIT, 1.0F, 1.0F);
         return true;
