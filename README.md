@@ -1,17 +1,18 @@
-# SimplerMC
+<h1 align="center">SimplerMC</h1>
 
-A Minecraft Plugin to make your server better.
-Un plugin Minecraft pour rendre ton serveur meilleur.
+<img src="https://mateoguidi.github.io/portfolio/img/projects/visuSimplerMC.png" alt="SimplerMC Visu"/>
 
-Made by Matéo GUIDI
-Fait par Matéo GUIDI
+## Description
+
+🇺🇸A Minecraft Plugin to make your server better, developed by Matéo GUIDI<br>
+🇫🇷Un plugin Minecraft pour rendre ton serveur meilleur, développé par Matéo GUIDI
 
 ## Download
 
-Check the release files to download the plugin related to your Minecraft version.
-Regardez dans les fichiers publiés pour télécharger le plugin adapté à votre version de Minecraft.
+🇺🇸Check the release files to download the plugin related to your Minecraft version.<br>
+🇫🇷Regardez dans les fichiers publiés pour télécharger le plugin adapté à votre version de Minecraft.
 
 ## Source code
 
-Check the branches to download the source code plugin related to your choosen version.
-Regardez les branches pour télécharger le code source du plugin adapté à la version choisie.
+🇺🇸Check the branches to download the source code plugin related to your choosen version.<br>
+🇫🇷Regardez les branches pour télécharger le code source du plugin adapté à la version choisie.
