@@ -1,6 +1,6 @@
 <h1 align="center">SimplerMC</h1>
 
-<img src="https://mateoguidi.github.io/portfolio/img/projects/visuSimplerMC.png" alt="SimplerMC Visu"/>
+<img src="https://mateoguidi.github.io/img/projects/visuSimplerMC.png" alt="SimplerMC Visu"/>
 
 ## Description
 
